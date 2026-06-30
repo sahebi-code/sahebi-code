@@ -2,23 +2,11 @@
 
 ### Software Engineer | Backend Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammad-sahebi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-sahebi/" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammad-sahebi-bb6683241/) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> 
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
