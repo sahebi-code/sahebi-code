@@ -1,6 +1,6 @@
 # Hi there👋
 
-### Software Engineer | Backend Developer
+### Software Engineer | Back-End Developer
 
 ## 🌐 Socials:
 🟢 Open to backend opportunities — reach out on [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/mohammad-sahebi/) 
