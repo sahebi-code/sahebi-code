@@ -17,7 +17,7 @@ Software engineer focused on **back-end development** with **Python**, **Django*
  
 - 🔭 Building back-end apps with **Django**, **Django REST Framework**, and **FastAPI**
 - 🐳 Containerizing projects with **Docker** and **Docker Compose**
-- 🌱 Currently learning **System design**
+- 🌱 Currently learning **system design**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/mohammad-sahebi)
 
 ```yaml
